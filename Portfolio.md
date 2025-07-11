@@ -3,12 +3,12 @@
 Layout: Two-column
 ### Left Side:
 
-Name
-Title
-Small tagline or headline
-description
-Icons: Gmail, GitHub, LinkedIn
-Resume button
+- Name
+- Title
+- Small tagline or headline
+- description
+- Icons: Gmail, GitHub, LinkedIn
+- Resume button
 
 ### Right Side:
 Circular Image
