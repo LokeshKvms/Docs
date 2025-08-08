@@ -88,7 +88,8 @@ const Faq = () => {
   return (
     <div className="w-full max-w-5xl mx-auto mt-10 space-y-[20px]">
       <h2 className="text-4xl font-bold text-center text-[#001C43] mb-6">
-        Frequently ASK{" "}
+        Frequently ASK{"VITE_API_BASE_URL=https://api.themoviedb.org/3
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwY2ZkMTJjNDQxNGUxY2UwODEzYjA4OTBlOTZmNzIzZSIsIm5iZiI6MTcyNjI0MjEyMy4wOTEsInN1YiI6IjY2ZTQ1ZDRiMDAwMDAwMDAwMGI5YzU2YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.07fRM9upfp14aLGbhAX-OYHVf90FVwJEWofDQeCBKfM "}
         <span className="text-[#F15B25] underline">Questions</span>
       </h2>
       {items.map((item, i) => (
